@@ -1,0 +1,6 @@
+name: ArgonExample
+version: '${version}'
+
+main: services.plasma.argonExample.ArgonExample
+api-version: '1.21.5'
+load: POSTWORLD
